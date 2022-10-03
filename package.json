@@ -1,0 +1,17 @@
+{
+  "name": "wcs-exercise-modern-js-1",
+  "version": "1.0.0",
+  "description": "WCS Exercise Modern JS 1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "YDrogen",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^10.0.0"
+  }
+}
